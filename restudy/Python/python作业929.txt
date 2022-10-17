@@ -1,0 +1,13 @@
+1、声明一个字符串“hello world,w1234”，从第2个w开始切片直到最后；
+2、声明一个字符串“hello world,1234”，将字符串的最后4个字符反转输出
+3、统计字符串”hello world“的长度
+4、统计字符串”hello world“中”o“的个数
+5、声明一个字符串“hello world,w1234”，用切片方式取出“world”
+6、把 *（星号） 拼接到"hello"中
+7、打印“那车水马龙的人世间,那样地来 那样地去,太匆忙"中最后一次出现"那"的位置
+8、给定一个字符串‘hello_python’切片输出50—100的结果
+9、给定一个字符串‘hello_python’，切片出eh
+10、给一个字符串str1 = "nihao,pengyou"   ，要求输出为：“nihao,peNgyou”  ，找出N的位置，以及统计出‘o’出现的次数。
+11、给定一个字符串str2 = 'hello_world'，要求反向输出
+12、声明一个字符串“hello_python”,切片出“eoy”
+13、用"o"分割字符串“hello_python”，并输出结果
